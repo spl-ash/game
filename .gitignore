@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# 游戏运行时生成的最高分存档
+highscore.json
+
+# 编辑器 / IDE
+.idea/
+.vscode/
